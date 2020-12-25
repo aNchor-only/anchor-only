@@ -3,4 +3,5 @@
 - 리눅스 좋아함
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=aNchor-only)](https://github.com/anchor-only/anchor-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anchor-only&layout=compact&show_icons=true&hide_border=true&bg_color=00000000&title_color=6bedd4&icon_color=6bedd4&text_color=389aa1)](https://github.com/anchor-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anchor-only&layout=compact&show_icons=true&hide_border=true&bg_color=00000000&title_color=6bedd4&icon_color=6bedd4&text_color=389aa1)](https://github.com/anchor-only)<br>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/0kSRyKPkC4w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
